@@ -9,7 +9,7 @@
 **Минимальная операционная система** для обучения 
 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/inos/build.yml?style=flat-square)](https://github.com/yourusername/inos/actions)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![License: Apache 2.0](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 ---
 ## 📌 Возможности  
 - **Загрузчик** (______)  
