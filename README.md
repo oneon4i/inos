@@ -7,7 +7,7 @@
 
 -----
 
-<img src="GHC/inos_stamp.png" width="200" align="left" style="margin-right: 20px;"/>
+<img src="GHC/inos_stamp.png" width="140" align="left" style="margin-right: 20px;"/>
 
 ### **InOs**  
 Операционная система  
@@ -16,7 +16,7 @@
 
 -----
 
-<img src="GHC/inkernel.png" width="200" align="left" style="margin-right: 20px;"/>
+<img src="GHC/inkernel.png" width="140" align="left" style="margin-right: 20px;"/>
 
 ### **inKernel**  
 Ядро операционной системы InOs  
